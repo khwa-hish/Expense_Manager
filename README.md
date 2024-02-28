@@ -49,8 +49,6 @@ To run this project locally, add the following environment variables to your `.e
 - `PORT`: Port number
 
 ## Tech Stack
-**Client:** React, Redux, react-bootstrap, Material Icons, tsparticles  
+**Client:** React, Redux, react-bootstrap, Material Icons 
 **Server:** Node, Express  
 **Database:** MongoDB  
-
-Feel free to modify and customize this content as needed. If you have any questions or require further assistance, please let me know!
